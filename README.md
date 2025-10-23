@@ -6,7 +6,7 @@ Supports multiple preload modes (normal, deep, extreme), concurrent threading, d
 How to use? 
 ---
 First, move the DD file to the tmp directory. 
-Use:```cp /place you saved the dd file/CVP /data/local/tmp ```
+Use:```cp /place you saved the CVP file/CVP /data/local/tmp ```
 
 After that, 
 run:```chmod +x /data/local/tmp/CVP ```
