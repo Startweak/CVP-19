@@ -11,6 +11,6 @@ Use:```cp /place you saved the CVP file/CVP /data/local/tmp ```
 After that, 
 run:```chmod +x /data/local/tmp/CVP ```
 
-to know how to use DD
+to know how to use CVP
 ---
 run:```/data/local/tmp/CVP --help ```
