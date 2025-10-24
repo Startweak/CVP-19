@@ -5,7 +5,9 @@ Supports multiple preload modes (normal, deep, extreme), concurrent threading, d
 ---
 How to use? 
 ---
-First, move the DD file to the tmp directory. 
+First, move the DD file to the tmp/bin directory. 
+AxManager : use the plugin and then go to quickshell type cvp --help
+other :
 Use:```cp /place you saved the CVP file/CVP /data/local/tmp ```
 
 After that, 
