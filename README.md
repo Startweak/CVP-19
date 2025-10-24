@@ -6,14 +6,14 @@ How to use?
 ---
 First, move the DD file to the tmp/bin directory.
 
-AxManager : use the plugin and then go to quickshell type cvp --help
+AxManager : use the plugin and then go to quickshell run ```cvp --help```
 
 other :
-Use:```cp /place you saved the CVP file/CVP /data/local/tmp ```
+Use:```cp /place you saved the CVP file/cvp /data/local/tmp ```
 
 After that, 
-run:```chmod +x /data/local/tmp/CVP ```
+run:```chmod +x /data/local/tmp/cvp ```
 
 to know how to use CVP
 ---
-run:```/data/local/tmp/CVP --help ```
+run:```/data/local/tmp/cvp --help ```
