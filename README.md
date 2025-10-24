@@ -1,8 +1,7 @@
 CVP-19 –Android Preload Utility
 ---
-A tool that preloads application resources into memory to optimize launch speed and responsiveness.
-Supports multiple preload modes (normal, deep, extreme), concurrent threading, detailed logging, and optional automatic app launch.
----
+A tool that preloads application resources into memory 
+
 How to use? 
 ---
 First, move the DD file to the tmp/bin directory.
