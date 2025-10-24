@@ -6,7 +6,7 @@ How to use?
 ---
 First, move the DD file to the tmp/bin directory.
 
-AxManager : use the plugin and then go to quickshell run ```cvp --help```
+AxManager : use the Costum Toybox plugin and then go to quickshell run ```cvp --help```
 
 other :
 Use:```cp /place you saved the CVP file/cvp /data/local/tmp ```
